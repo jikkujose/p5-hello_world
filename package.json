@@ -1,0 +1,11 @@
+{
+  "name": "p5_hello_world",
+  "version": "1.0.0",
+  "description": "Trying out p5",
+  "main": "index.js",
+  "author": "Jikku Jose <jikkujose@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.10.2"
+  }
+}
