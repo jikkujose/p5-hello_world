@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(600, 600)
+  document.title = "Up mover"
 }
 
 let lineHeight = 0

@@ -1,5 +1,6 @@
 function setup() {
   createCanvas(600, 600)
+  document.title = "Sinusoid"
 }
 
 function draw() {
