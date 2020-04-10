@@ -11,3 +11,5 @@ Trying out processing via p5
 - [x] Sinusoid
 - [x] Disease Spread
 - [x] Go Board - All Sizes
+- [ ] Snake
+- [ ] TicTakToe Game
