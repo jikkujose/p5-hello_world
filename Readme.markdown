@@ -12,4 +12,5 @@ Trying out processing via p5
 - [x] Disease Spread
 - [x] Go Board - All Sizes
 - [x] Snake
+- [x] Snake Game
 - [ ] TicTakToe Game
